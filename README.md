@@ -1,2 +1,6 @@
-# python-IDE
-Amethyst - The best code IDE!
+# Amythest
+
+The best coding IDE for python!
+
+## v1.0
+* Initial release.
